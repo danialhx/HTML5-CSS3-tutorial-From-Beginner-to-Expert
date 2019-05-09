@@ -25,7 +25,7 @@ Lesson8 - Lists<br>
 <li>dl,dt,dd
 <li>for code or ascii art
 <li>hr-horizontal rule
-<ul>
+</ul>
   
 Lesson9 - Tabular Data https://www.w3.org/TR/2012/WD-html5-author-20120329/tabular-data.html#tabular-data
 <ul> 
