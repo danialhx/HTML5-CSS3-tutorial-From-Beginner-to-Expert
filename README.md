@@ -11,7 +11,7 @@ Lesson2 - 1st basic html5 formatting, from naked text to html5 with linked list,
 
 Lesson3 - Using validators to debug code, and CSS basics
 
-Lesson4 - lecture on different HTML5 Tags, new and old. like <s>only in documentation for reference. Focusing on style will be done in CSS and HTML5 tags purpose is to work for SEO and such. 
+Lesson4 - lecture on different HTML5 Tags, new and old. like <  s >only in documentation for reference. Focusing on style will be done in CSS and HTML5 tags purpose is to work for SEO and such. 
   
 Lesson5 - Making anchor tags for HTML5,
 -to Another URL
@@ -19,7 +19,8 @@ Lesson5 - Making anchor tags for HTML5,
 -to another HTML in a subfolder
 -to bottom of page
 
-
 Lesson8 - Lists
 ul,ol,li
 dl,dt,dd
+<pre> for code or ascii art
+hr-horizontal rule
