@@ -20,12 +20,14 @@ Lesson5 - Making anchor tags for HTML5,
 -to bottom of page
 
 Lesson8 - Lists<br>
-<br>ul,ol,li
-<br>dl,dt,dd
-<br>for code or ascii art
-<br>hr-horizontal rule
-
-Lesson9 - Tabular Data
+<ul>
+<li>ul,ol,li
+<li>dl,dt,dd
+<li>for code or ascii art
+<li>hr-horizontal rule
+<ul>
+  
+Lesson9 - Tabular Data https://www.w3.org/TR/2012/WD-html5-author-20120329/tabular-data.html#tabular-data
 <ul> 
 <li> &lt table &gt &lt thead &gt &lt tbody &gt &lt tfooter &gt
 <li> &lt th &gt&lt tr &gt &lt td &gt
