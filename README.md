@@ -19,8 +19,14 @@ Lesson5 - Making anchor tags for HTML5,
 -to another HTML in a subfolder
 -to bottom of page
 
-Lesson8 - Lists
-ul,ol,li
-dl,dt,dd
-<pre> for code or ascii art
-hr-horizontal rule
+Lesson8 - Lists<br>
+<br>ul,ol,li
+<br>dl,dt,dd
+<br>for code or ascii art
+<br>hr-horizontal rule
+
+Lesson9 - Tabular Data
+<ul> 
+<li> &lt table &gt &lt thead &gt &lt tbody &gt &lt tfooter &gt
+<li> &lt th &gt&lt tr &gt &lt td &gt
+</ul>
