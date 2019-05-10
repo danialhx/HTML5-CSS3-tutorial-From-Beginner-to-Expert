@@ -32,3 +32,9 @@ Lesson9 - Tabular Data https://www.w3.org/TR/2012/WD-html5-author-20120329/tabul
 <li> &lt table &gt &lt thead &gt &lt tbody &gt &lt tfooter &gt
 <li> &lt th &gt&lt tr &gt &lt td &gt
 </ul>
+
+Lesson10 - Forms https://www.w3.org/TR/2012/WD-html5-author-20120329/forms.html#forms
+<ul> 
+<li> &lt form &gt &lt input &gt &lt label &gt 
+<li> &lt textarea &gt&lt select &gt
+</ul>
