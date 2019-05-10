@@ -38,3 +38,10 @@ Lesson10 - Forms https://www.w3.org/TR/2012/WD-html5-author-20120329/forms.html#
 <li> &lt form &gt &lt input &gt &lt label &gt 
 <li> &lt textarea &gt&lt select &gt
 </ul>
+
+Lesson 11 - Form Validation
+<ul><li> frontend Form validation, for emails, tel no. and etc. </ul>
+
+Lesson 12 - CSS Selectors
+<ul><li> also CSS precedence. </ul>
+
