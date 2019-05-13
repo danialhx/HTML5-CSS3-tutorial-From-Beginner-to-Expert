@@ -45,3 +45,5 @@ Lesson 11 - Form Validation
 Lesson 12 - CSS Selectors
 <ul><li> also CSS precedence. </ul>
 
+Lesson 13- font Cheat sheet
+<ul><li> html font manipulation </ul>
